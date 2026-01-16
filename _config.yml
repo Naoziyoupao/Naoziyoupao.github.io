@@ -10,9 +10,9 @@
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title_separator          : "-"
-title: "XUAN ZHANG / Site Title"
+title: "Xuan Zhang"
 name: &name "XUAN ZHANG"
-description: &description "XUAN ZHANG's academic portfolio"
+description: "Undergraduate student at HIT. Interests: NLI, debiasing, robustness, and LLMs."
 url: https://Naoziyoupao.github.io
 repository: "Naoziyoupao/Naoziyoupao.github.io"
 
@@ -36,9 +36,9 @@ author:
   googlescholar    : 
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : 
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   scopus           : # URL
   zotero           : # URL
 
@@ -52,7 +52,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : 
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -216,18 +216,13 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+
 
 
 # These settings control how pages and collections are included in the site
