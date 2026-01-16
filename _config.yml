@@ -23,7 +23,8 @@ repository: "Naoziyoupao/Naoziyoupao.github.io"
 author:
   avatar: "profile.png"
   name: "Xuan Zhang"
-  bio: "Undergraduate student at Harbin Institute of Technology (HIT, China). Interests: NLI, debiasing, robustness, and large language models."
+  bio: "Undergraduate student at Harbin Institute of Technology (HIT, China). Research interests include natural language inference,large language models, and AI for science."
+
   location: "China"   # 不想公开就留空
   employer: "Harbin Institute of Technology"
   email: "xuanzhang@ir.hit.edu.cn"
